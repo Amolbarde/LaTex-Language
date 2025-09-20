@@ -1,0 +1,14 @@
+1) \documentclass{article}
+ -type of document{article,book report}
+
+2) \begin{document}
+ -start of your content
+
+3) \end{document}
+ -end content
+
+4) \section{}
+  -section heading
+
+5) \subsection
+ -sub section
