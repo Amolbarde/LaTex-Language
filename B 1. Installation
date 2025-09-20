@@ -1,0 +1,17 @@
+
+🔹 Install on Ubantu
+
+✅ Required tools
+ 1) LaTex Distribution(compiler)
+ 2) Editor
+
+ * step 1 : open terminal
+  >> sudo apt update
+  >> sudo apt install texlive-full
+
+  * step 2 : install editor 
+   >> sudto apt install textstudio 
+
+   ➡ Run TeXstudio and compile your .tex files directly.
+
+   ----------------------------------------------------------
